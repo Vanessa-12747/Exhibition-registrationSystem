@@ -4,7 +4,7 @@ import java.sql.*;
 import javax.swing.JOptionPane;
 
 public class DatabaseManager {
-    private static final String DB_URL = "jdbc:ucanaccess://C:\\Users\\NOLAN\\Documents\\NetBeansProjects\\Registration\\VUE_Exhibition.accdb"; // update according to your specific paths..
+    private static final String DB_URL = "jdbc:ucanaccess://C:\\Users\\HP\\Desktop\\NetBeansProjects\\Registration\\VUE_Exhibition.accdb"; // update according to your specific paths..
 
     // No need for the static block anymore, we'll load the driver explicitly in MainClass
 
